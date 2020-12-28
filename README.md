@@ -1,8 +1,13 @@
-# code-with-quarkus project
+# Employee REST API
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+## Abstract
+This is a start up exercise for the Backend onboarding at Talkdesk.
+It implements an employee REST API using [Quarkus].
 
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+## Prerequisites
+* Maven 3.6.3
+* OpenJDK 11
+
 
 ## Running the application in dev mode
 
@@ -43,11 +48,10 @@ You can then execute your native executable with: `./target/code-with-quarkus-1.
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/maven-tooling.html.
 
-# RESTEasy JAX-RS
 
-<p>A Hello World RESTEasy resource</p>
-
-Guide: https://quarkus.io/guides/rest-json
+[//]: #
+  
+  [Quarkus]: <https://quarkus.io/>
 
 # Author
 Ana Cruz
